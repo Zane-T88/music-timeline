@@ -1,0 +1,14 @@
+node_modules
+dist
+.vercel
+.DS_Store
+public/audio
+public/audio/
+public/imgs/
+.venv/
+public/audio/
+public/imgs/
+public/*.jpg
+public/*.png
+public/*.jpeg
+public/*.webp
