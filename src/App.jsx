@@ -22,730 +22,19 @@ const PROJECTS = [
     narration:
       "Then, Zane Tipton completed his first project. \nHere began a long journey of documenting his inner thoughts and emotions as they came to him.",
     songs: [
-      { title: "Genesis", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Well here it is
-I hope you like it
-And i genuinely mean that
-It's why i write it
-No i don't mean i do it for you're approval
-Nor do i do it in hopes for your removal
-I don't do it for me either if that's what you thought
-There's a lot more to this picture than what i need and want
-I didn't come here for fancy cars or clothes
-I came here on a mission to help you through life i suppose
-Sure the fortune and fame might be nice
-But i'm pretty sure there's more to life
-This isn't about who's better or best
-More of an outlet for when i get no rest
-You see i'm gonna keep it straight
-This life stuff isn't too great
-Whether inside or out we all struggle sometimes
-But i hope that i can help when i put my life into rhymes
-Time and time again i find myself lost and confused
-Time and time again i looked to music to get me through
-That's just my way of expression
-My means of impression
-And if it helps you relate
-I'm glad i could teach you a lesson
-Now i'm sure you have reason to doubt
-How does a kid know what life's about
-But in hopes of persuasion
-I have just one sayin
-I'm far from finished
-This is only my Genesis
-
-It took time
-But i feel fine
-This is my line
-To unwind
-I'm on my grind
-And i now shine
-Whether daytime
-Or the nighttime
-I'm not lyin
-I stay flyin
-If you hate mine
-Then get in line
-I'm not tryin
-To be a mime
-I'm an ancient Mayan
-From another time
-Im a roarin lion
-I'm in my prime
-Ima fold your mind
-Like my name prion
-So grab the wine
-And sit and dine
-And hit rewind
-And hear my rhyme
-And take a lime
-And peel the rind
-And read the sign
-That i'm sublime
-I'm on the climb
-And it's not a crime
-And i'm not cryin
-When i feel the grime
-Ima keep it slime
-Like it's nick and live
-And heres a dime
-Better pay the fine
-And i'm divine
-Cause it's his design
-And i won't resign
-Cause i can't recline
-I stay kind
-Like the number nine
-You can't confine
-Cause i won't align
-To your asinine
-Dumb shrine
-I'll stand high
-Like a tall pine
-Your supine
-But i'll be your spine
-That's my chime
-I've made my tine
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%281%29genesis.wav" },
-      { title: "Affliction", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `You know i've been thinkin about this for awhile now
-I just never could find the words that really tell how i feel
-But it seeeems i did a little soul searchin
-
-Damn your love's an affliction
-That's too bad it's an addiction
-
-Fightin for your attention (I need you)
-But i always come up missin (Where you at)
-You wonder What's my mission? (What you want)
-I'm not just here for your submission (No i'm not)
-I could leave if you'd like (Bye)
-Only have a good night (Bye)
-Or i could stay for the day (Hm)
-Come around back your way (Hm)
-But that's just it That's my message (Yep)
-You're not givin me either Not even a vestige (Nothin)
-Instead you'd rather mess with my thoughts and mix my emotions (motions)
-Inconclusive I don't know your notions (notions)
-You'll call my name but you don't wanna talk (Hello)
-You say you'll come over but the truth that is not (Lies)
-You wanna use my shoulder but leave me out to rot (Damn)
-I'm tired of bein ran over I'm not a parkin spot
-
-Damn your love's an affliction
-That's too bad it's an addiction
-
-Truly you're all the same (juice juice)
-But for whatever reason i never shy away (idk why)
-Sadly the same can't be said about you (You)
-You've lost all hope In your eyes i'm just another dude (What)
-But that couldn't be more farther from the truth (Not at all)
-Take a chance see what i will do for you (I'm here)
-But you know i really couldn't care more (No more)
-I'm tired of lovin I only come up short (I'm done)
-Nah ima leave it all up to you (Up to you)
-If you want this blessin you gotta put in work too (It's true)
-I can't deal with the shame no more (Nope)
-I can't deal with the doubt (Mm-mm)
-But it's not like i can ignore (Nope)
-Cause i might be missin out (Mm-mm)
-I'm not your chew toy Chew me up and spit me out (Woof)
-If you're gonna be a whore than Aight ima head out
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%282%29affliction.wav" },
-      { title: "Dedication", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Ain't confidence it's determination
-My minds complex like a space station
-I have no time for a vacation
-Even when i lose i still have dedication
-
-I'm tired of loooosin
-I just always fail
-I'm tired of loooosin
-I just always fail
-I can't get winnin
-I'm stuck in a jail
-I can't get winnin
-I'm stuck in a jail
-
-There are times where you feel you can never get it right
-It's hard to tell when it ends just hold on very tight
-This life ain't perfect you know this and now so do i
-Is it worth it i can't help but wonder this sometimes
-
-So i meditate and contemplate on why i carry on
-Then i celebrate cause i know that it won't be too long
-Even so that doesn't mean life's all bread and butter
-Try and numb the pain never go away shout out to cudder
-
-Ain't confidence it's determination
-My minds complex like a space station
-I have no time for a vacation
-Even when i lose i still have dedication
-
-I'm tired of loooosin
-I just always fail
-I'm tired of loooosin
-I just always fail
-I can't get winnin
-I'm stuck in a jail
-I can't get winnin
-I'm stuck in a jail
-
-I don't wanna go no more it's gettin way too hard to carry on
-I'm knocked to the floor every time that i think i finally won
-But in this i find some comfort cause i know that there's purpose
-When you lose its them deciding if you're really truly worth it
-
-If you hustle when your broken it might mean you have the token
-Only real ones make it through despite the witches with the potion
-In this life you might have trials with a bit of tribulation
-But it's through all of your struggles that you get your education
-
-Ain't confidence it's determination
-My minds complex like a space station
-I have no time for a vacation
-Even when i lose i still have dedication
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%283%29dedication.wav" },
-      { title: "Affection", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I just felt like i had to do this one
-Cause you don't always get the chance to tell that person how you really feel
-
-I'll give you what you want what you didn't know you need
-I guarantee you'll get it all from me
-Passion like this doesn't come that often
-So if you want real love please don't stop it
-
-I owe it all to you
-All my heart and time
-Cause there's nothing else like you
-That fully completes my mind
-
-I meant what i said and i'll say it again
-There nothing in the world that can keep me in a pen
-But when it comes to you i lose all control
-You're the only thing that takes my mind off my goal
-i've failed more than once i've failed more than twice
-Many times i've lost and it gave me long nights
-I can never stop and it seems that's the problem
-Its why i hate to lose cause only you can solve em
-I love it when you're near and i love it when you text
-So when i lose what's dear i really start to stress
-I don't know how you do it. You keep me comin back
-Without you or the music i might have a heart attack
-
-It's not jealousy it's not lust
-Only true affection that i have for us
-
-I'll give you what you want what you didn't know you need
-I guarantee you'll get it all from me
-Passion like this doesn't come that often
-So if you want real love please don't stop it
-
-I owe it all to you
-All my heart and time
-Cause there's nothing else like you
-That fully completes my mind
-
-You keep me wanting more and you keep me intrigued
-So when you open the door i really wanna believe
-There's two things about you i can never shut out
-It's your mind and your body in this i have no doubt
-I love to learn your mind i could talk with you all night
-Your body's one of a kind i've never seen nothin more fine
-When i'm with you i seem to lose track of time
-Every time you leave i always wanna rewind
-
-As you can see you really mean a lot to me
-The only thing i see you're all the air i breathe
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%284%29affection.wav" },
-      { title: "Distraction", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I'm tryna stay focused
-In a world that's lost focus
-It feels like hocus pocus
-Cause i'm in a hypnosis
-Racing in my mind
-They promise better times
-But after i oblige
-I learn it was a disguise
-Less is more, more is less
-Giving in weighs on my conscience
-I find it hard to find rest
-Dealing with all this stress
-There's no better time than the present
-So why do i postpone my presence
-I'm always looking for the quickest exit
-But quickly discover it was just a entrance
-It's easier to have fun
-Than to work past the sun
-But i have to keep it a hun
-And ignore all distractions
-
-I'm tryin to fight Distractions Distractions
-I'm tryin to fight Distractions Distractions
-I'm tryin to fight Distractions Distractions
-
-I don't understand why it's so hard
-To look in their eyes and still close the door
-I know in my heart that they're all sub par
-But even still they knock my mind to the floor
-Whether girls or weed or shows or greed
-It takes a lot of my will for me to believe
-That none of this stuff will help me succeed
-It'll all leave me empty most definitely
-Women are the worst i've said this before
-I hate when i lust there nothing more i abhor
-They take and i give and it never seems to change
-After awhile i only feel estranged
-Their love is a drug but they're not the only ones
-Good dope is a rope and it's often self hung
-I've had my fair share but it never helped me
-Only left me confused and even more hungry
-Quick entertainment isnt much better
-It comes to my attention like a fancy sealed letter
-It's hard to ignore when you got so much on your plate
-A nap and a show is such an easy escape.
-But there's greed i feed and it's never guaranteed
-There's nothing i want more than more than i need
-I've looked to things and money for a little satisfaction
-But it never lasts long and for more i keep
-askin
-These are my biggest struggles and the reason i'm late
-I've been taken two girls to the same prom date
-But i can't keep goin down this road anymore
-If i want true bliss than distractions i'll ignore
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%285%29distraction.wav" },
-      { title: "Attention", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I can't even look your way
-Cause i'll fall for your hypnosis
-How i wish you could stay
-But then i'll lose all my focus
-
-It never gets easier
-No matter how hard i try
-I fall for your teasers
-When we're eye to eye
-I wanna believe ya
-When you say that you're mine
-But how could i need ya
-When you waste all of my time
-I wanna do something great
-History i could make
-But when i see your face
-My dreams just seem to change
-I give but you just take
-Now i feel estranged
-
-I can't even look your way
-Cause i'll fall for your hypnosis
-How i wish you could stay
-But then i'll lose all my focus
-
-I wish it wasn't so hard
-But i have to make a choice
-My future or your heart
-I can't deal with all the noise
-You leave your mark
-And it cuts itself deep
-I'm left with a scar of you
-On my memory
-I work so hard for this life i desperately want
-But every time you come along i just can't get enough
-What must i do to rid you out of my life
-I try to ignore but you're like a light in the night
-
-I can't even look your way
-Cause i'll fall for your hypnosis
-How i wish you could stay
-But then i'll lose all my focus
-
-I'm sorry if i come across as weird
-But i just can't be the one to hold you dear
-I've had this dream of mine since i was a but a child
-So maybe some other time but for now your mild
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%286%29attention.wav" },
-      { title: "Revelation", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Tryna find my way out of a maze
-I couldn't help that i was stuck in a daze
-Searching through life while fishin for praise
-How are you supposed to not end in a craze
-I was just lookin for better days
-Waitin on a miracle to amaze
-I didn't want to be stuck in a graze
-So i needed a revelation to save
-
-That's when i thought it
-What i needed to solve it
-If i wanna get lit
-Then i'm gonna need true grit
-
-Work on me there ain't much to it
-If i wanna see you bump to the music
-Tried the easy way that ain't gonna do it
-So i gotta learn to work through it
-That's all i got there's not much there
-Skill is subjective life isn't fair
-But you gotta know how much i care
-So i stay up and grind through night air
-
-Now that i've tried i'll say it's worked for me
-I feel it in my bones in the air i breathe
-I don't have pride but i'm proud of myself
-I think they'll write and put my life on a shelf
-
-I just worked
-Man i just worked
-I just worked
-Man i just worked
-I just worked
-I didn't stop the work
-I just worked
-All i did was work
-
-Now i got it
-Now i got it like that
-Now i got it
-Now i got it like that
-If you want it
-You can have it like that
-If you want it
-You gotta work like that
-
-Believe me though this wasn't easy
-Hard to hold on its way too greasy
-I did my best and look where it got me
-Got no rest but that didn't stop me
-Now i know that i'm the man
-Didn't need hoes or tricks or bands
-I feel this good off my own plans
-And putting in the time helped me understand
-
-That it's not the fame that makes you
-Nor does cash or how they rate you
-Only how you spend your time
-Did you waste it or spend it tryin
-
-Just to be clear there's still some tears
-The ends not near and it gets worse i fear
-But don't be discouraged in fact be couraged
-See how far you've come and how much you've foraged
-
-Now you finally know the truth
-You don't have to be the best in the room
-You just have to work harder than the rest of them do
-That's the only way to be above number two
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%287%29revelation.wav" },
-      { title: "Paths", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Sometimes i don't even want a crown
-I just wanna grow old and settle down
-Find a good girl we could both leave town
-Lay away as we live safe and sound
-
-Sometimes i don't even want a crown
-I just wanna grow old and settle down
-Find a good girl we could both leave town
-Lay away as we live safe and sound
-
-Sometimes i don't even want a crown
-I just wanna grow old and settle down
-Find a good girl we could both leave town
-Lay away as we live safe and sound
-
-I don't know
-Where to go
-All i know
-Is vertigo
-
-Im stuck between two lives
-At the point where the path divides
-One to the left is filled with lights
-A dream i have that's all about heights
-The other one is to the right
-It's comforting but less excitin
-
-Where do i go from here
-I have too much to fear
-Nothing i see is clear
-I think i need some air
-
-I think that i'll just give up the crown
-Start to grow old after i settle down
-Find a good girl that wants to leave town
-Lay in shade as we watch all the clouds
-
-No. Actually…
-
-I think that i'll just take up the crown
-Start to grow old but never settle down
-Leave the good girl they're not real anyhow
-Stay up late cause i can't just lay around
-
-Yknow i can't be selfish with this
-I've been given a mission an ambition
-And i won't stop till it comes to fruition
-I've been sent to guide and give hope
-Not to enjoy what helps me cope
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%288%29paths.wav" },
-      { title: "Kool-Aid", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I can't hide me
-I can't hide me
-I can't hide me
-
-I don't want
-To realize
-That i try
-To be a lie
-
-Even if
-You want me
-To fit in
-It can't be
-
-That's why i feel
-So good surreal
-Cause i just do
-What i want to
-
-That does not mean that i think that i was born a perfect star
-It just means that i know who i am and how
-to take that far
-Cause when you learn how to truly love the good and bad in you
-You learn how to take the world by storm and shape it just for you
-
-Don't drink the Kool-Aid
-(Learn to be self made)
-Just open your eyes
-(Don't need them for highs)
-I know the pressure
-(I feel the pressure)
-When the world weighs down
-(It's hard not to drown)
-
-Don't drink the Kool-Aid
-(Learn to be self made)
-Just open your eyes
-(Don't need them for highs)
-I know the pressure
-(I feel the pressure)
-When the world weighs down
-(It's hard not to drown)
-
-So next time
-You're behind
-Check inside
-And you'll find
-
-All you need
-Is your own
-Mind to guide
-Soul to grow
-
-To survive
-This hard life
-It takes you
-To realize
-
-They don't tell
-What to do
-Only you
-Controls you
-
-So don't drink
-The Kool-Aid
-Or you'll need
-The first aid
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%289%29kool_aid.wav" },
-      { title: "Head", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Head
-What's goin on in my head yea
-What's goin on in my head yea
-I can't i can't i can't i can't
-
-Head
-What's goin on in my head yea
-What's goin on in my head yea
-I can't i can't i can't i can't
-
-Head
-What's goin on in my head
-I can't go to bed
-Cause i don't know my head yea
-
-Lost in the world confused
-Wanna know the news
-But ion know what to do
-Findin my own place
-But runnin outta thangs
-That's keepin me stay sane
-What can i find to fight the ride
-What can i find to fight the high
-What can i find to fight the lie
-What can i find to fight the time
-What can i find to fight my mind
-What can i find to fight
-
-Head
-What's goin on in my head yea
-What's goin on in my head yea
-I can't i can't i can't i can't
-
-Head
-What's goin on in my head yea
-What's goin on in my head yea
-I can't i can't i can't i can't
-
-I don't know what's in my head
-Thought i knew but i didn't
-Now i think i might be dead
-Will there ever be an end
-To all the pain and sufferin
-Goin on inside my head
-I can never escape
-So i must find a way
-To live by day by day
-Eh but it's gonna alright
-It's been a long night
-But i'm here to fight
-
-Head
-What's goin on in my head yea
-What's goin on in my head yea
-I can't i can't i can't i can't
-
-Head
-What's goin on in my head yea
-What's goin on in my head yea
-I can't i can't i can't i can't
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%2810%29head.wav" },
-      { title: "Better Times", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I often find myself reminisicin
-To the days before i knew that words definition
-About a time long gone and in the past
-About a time long ago i wish would last
-There's nothing i won't do to get it all back
-I would even go through another heart attack
-
-I'm holding on to my last thoughts
-The remaining reminders go down in these notes i jot
-Memories from the past that went by too fast
-I didn't even know they were good till i found bad ones never last
-
-There's something about anniversaries
-That revive the times i hold close to me
-Reminding myself that not long ago
-I was spending my time with nothing i loathe
-I wanna go back wanna go back so bad
-To that time when i thought i had what i had
-I lay in my bed laying awake at night
-Replaying those memories that bring back a little light
-It's all i have left that keeps me going anymore
-Because maybe one day i'll relive it once more
-
-
-I'm holding on to these last thoughts
-But holding on long'll cause my brain to rot
-Memories from the past that went by too fast
-Don't wish away the good because bad ones seem to last
-
-Like i said i wish i could get back the past
-But sometimes i only ever want it to pass
-It seems while i live in the present
-I only want to notice what's unpleasant
-But when i finally make it to the future
-Only then can i see the bigger picture
-So then i'm stuck where i am right now
-Wanting to return to a time that's said ciao
-This bit is dangerous it just might endanger us
-To recall better times and wish that they came to us
-We must live in today else we make the same mistake
-And miss out on the great that's in front of our face
-
-I'm done holding on to these past thoughts
-I'm finally letting go but forget them i will not
-Memories from the past that went by too fast
-I'm here to see the good knowing bad ones never last
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%2811%29better_times.wav" },
-      { title: "Doubt", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Cant live with the doubt
-I gotta get it out
-So i no longer pout
-When i got no clout
-
-Cant live with the doubt
-I gotta get it out
-So i no longer pout
-When i got no clout
-
-I'm tired of livin in question
-Whether or not i'm the very best in
-I'm scared i'm not enough
-And one day i'll be out snuffed
-Thoughts of doubt run through my mind
-And make me waste a lot of my time
-No i hate this No i hate that
-No nothin of mine is ever up to bat
-So i lay in bed and think of times ahead
-Where things just aren't as bad or maybe i was dead
-
-Cant live with the doubt
-I gotta get it out
-So i no longer pout
-When i got no clout
-
-Cant live with the doubt
-I gotta get it out
-So i no longer pout
-When i got no clout
-
-That's why i gotta be strong
-And tell myself you're never wrong
-If i believe it can be done
-Then i've already won
-I might not be the best
-I might not get no rest
-But as long as i fight the stress
-Than i'll be surely blessed
-What's the point of livin in doubt
-I've only got one life to live it out
-So i might as well just never pout
-Because i got myself ion need no clout
-
-Cant live with the doubt
-I gotta get it out
-So i no longer pout
-When i got no clout
-
-Cant live with the doubt
-I gotta get it out
-So i no longer pout
-When i got no clout
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%2812%29doubt.wav" },
-      { title: "Know Nothin", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `All i know is that i know nothin
-Time goes on and i still know nothin
-Flipped the script didn't see that comin
-What is real i wish i knew somethin
-
-All i know is that it comes and goes
-One minute you're fine and the next idk
-How long will it take to know i'm sure
-What's real and fake no nothing is pure
-
-All i know is that i know nothin
-Time goes on and i still know nothin
-Flipped the script didn't see that comin
-What is real i wish i knew somethin
-
-I've done so much it still ain't enough
-To figure out what when why how and stuff
-Every time i think i know what it's about
-Life switches up and spits me out
-
-All i know is that i know nothin
-Time goes on and i still know nothin
-Flipped the script didn't see that comin
-What is real i wish i knew somethin
-
-I'm tellin you man
-This ain't fun and games
-The way life works
-It's hard not to blame
-But one things for sure
-Its that i'm never bored
-Cause the way life works
-I'll won't know the right door
-
-But i just keep goin that's all i can say
-Even if i only make a mistake
-Cause the funny thing is nothin really matters
-So i just do what i want and ignore all the chatters
-`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%2813%29know_nothing.wav" },
+      { title: "Genesis", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%281%29genesis.wav" },
+      { title: "Affliction", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%282%29affliction.wav" },
+      { title: "Dedication", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%283%29dedication.wav" },
+      { title: "Affection", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%284%29affection.wav" },
+      { title: "Distraction", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%285%29distraction.wav" },
+      { title: "Attention", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%286%29attention.wav" },
+      { title: "Revelation", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%287%29revelation.wav" },
+      { title: "Paths", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%288%29paths.wav" },
+      { title: "Kool-Aid", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%289%29kool_aid.wav" },
+      { title: "Head", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%2810%29head.wav" },
+      { title: "Better Times", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%2811%29better_times.wav" },
+      { title: "Doubt", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%2812%29doubt.wav" },
+      { title: "Know Nothin", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: "", audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/dorm-room-demo-tapes/%2813%29know_nothing.wav" },
       { title: "Curse Breakin", producer:"Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I gave it all up
 Or i let go
 Which one it was
@@ -822,7 +111,6 @@ So when i say that you're my lady
 Just know that i'm not talkin crazy
 See how i'm just curse breakin baby
 I've got it all and it never phased me
-
 
 I gave it all up
 Or i let go
@@ -2922,7 +2210,7 @@ You know, the way it goes
       { title: "Clarity", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", sample: "https://www.tiktok.com/@ufc/video/7614256188338752799?lang=en", lyrics: ``, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/the-house-that-was-built/thtwb_13.wav" },
       { title: "Chronos", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: ``, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/the-house-that-was-built/thtwb_14.wav" },
       { title: "We", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", sample: "https://www.pbs.org/pov/films/tokyouberblues/", lyrics: ``, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/the-house-that-was-built/thtwb_15.wav" },
-      { title: "Was", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: ``, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/the-house-that-was-built/thtwb_16.wav", coverart: "Artist Unknown" },
+      { title: "Was", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: ``, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/the-house-that-was-built/thtwb_16.wav", coverart: "Leonard Koscianski" },
     ],
   },
   {
@@ -2937,7 +2225,7 @@ You know, the way it goes
     narration:
       "So during this project, visions of the future began to appear. \nA revitalization of the self and a method of overcoming the difficulties it would take to get there.",
     songs: [
-      { title: "i don't smoke and yet my gums still bleed.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `Yea
+      { title: "i don't smoke and yet my gums still bleed.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Yea
 Mm mm mm
 Yea
 Mm mm
@@ -3038,7 +2326,7 @@ But i know what’s true
 With a pink skyze view
 Got the blue hise too
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk1.wav" },
-      { title: "the oracle at delphi got nothing on me.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `Took a ride in the sun
+      { title: "the oracle at delphi got nothing on me.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Took a ride in the sun
 Thought i was finding me
 And when i lie down
 Don’t ever let me sleep
@@ -3141,7 +2429,7 @@ I’m a compete
 Just know i never lose
 It’s all on me
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk2.wav" },
-      { title: "too many decisions and none of them lead to you.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `Yea
+      { title: "too many decisions and none of them lead to you.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Yea
 Mm
 Yea
 Mmm mmm mm mm
@@ -3213,7 +2501,7 @@ To pay what’s due
 And give your life
 To end the strife
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk3.wav" },
-      { title: "a dance for tú, i bid you ado.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `Yea
+      { title: "a dance for tú, i bid you ado.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Yea
 Uh huh
 Damn right
 
@@ -3310,7 +2598,7 @@ And a nice rack
 Gonna get cracked
 I’m that snack
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk4.wav" },
-      { title: "ignoring the flight safety check.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `You see me 
+      { title: "ignoring the flight safety check.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `You see me 
 In a solid black tee wanna be me
 But you never ever ever gonna keep me
 Only got one choice to compete me
@@ -3451,7 +2739,7 @@ I wrote a poem on the parliament
 I been in a coma with the common
 I been flowin with the flaw in
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk5.wav" },
-      { title: "how come i never FEEL successful.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `There’s one thing i know it is myself
+      { title: "how come i never FEEL successful.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `There’s one thing i know it is myself
 I don’t belong on a shelf
 Dealt a bad hand now i got good health
 So i’m on payback and spread the wealth
@@ -3507,7 +2795,7 @@ Cause i know while im here ima find peace
 And i don’t got the time for the fine things
 So ima make it all count archimedes
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk6.wav" },
-      { title: "the sounds of space keep me in place.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `I don’t know where i
+      { title: "the sounds of space keep me in place.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I don’t know where i
 Get all these feelings
 But sometimes i feel
 Like i am derailing
@@ -3557,7 +2845,7 @@ They can’t be make believe
 It’s up to us to see
 They become memories
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk7.wav" },
-      { title: "i'm blind from the things that i'll never see.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `I don’t know where i
+      { title: "i'm blind from the things that i'll never see.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I don’t know where i
 Get all these feelings
 But sometimes i feel
 Like i am derailing
@@ -3718,7 +3006,7 @@ It’s over before you know it
 So live it up bitches 
 The rest is on me 
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk8.wav" },
-      { title: "bad bitches break bread.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `I would give it all up for you
+      { title: "bad bitches break bread.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I would give it all up for you
 I would give it all up i
 I would give it all up for you
 I would give it all up i
@@ -3761,7 +3049,7 @@ Think that you gone a whole mile
 But no you’re just one in pile
 I’m taking your job like AI oh
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk9.wav" },
-      { title: "signing the dotted line etc.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `The devil called my phone
+      { title: "signing the dotted line etc.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `The devil called my phone
 Said shewanna make a deal (ah ay)
 I see you look alone
 Do you want someone that’s real (ah ay)
@@ -3846,7 +3134,7 @@ Go and bring it up
 Do no harm babygirl
 Ima eat it up
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk10.wav" },
-      { title: "finding missing puzzle pieces.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `Lead a life you wish to live
+      { title: "finding missing puzzle pieces.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Lead a life you wish to live
 Lead a life you wish to live
 Lead a life you wish to live
 Lead a life you wish to -
@@ -3979,7 +3267,7 @@ Of the light
 Of the light
 Of the light
 Ay`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk11.wav" },
-      { title: "the last time i'd serenade.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `But i dont need you you dont need me
+      { title: "the last time i'd serenade.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `But i dont need you you dont need me
 But i ain’t really given out apologies
 I like a beauty in a party it’s a part of me
 So im never really sorry when i give you a tease 
@@ -4061,7 +3349,7 @@ She could stop a room
 That's her only goal
 She do it all for show
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk12.wav" },
-      { title: "taking deep breaths but i barely get a hit.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `Wanna see you iced out
+      { title: "taking deep breaths but i barely get a hit.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Wanna see you iced out
 Wanna see you piped down
 And i know that i might sound
 A bit out my mind now
@@ -4111,7 +3399,7 @@ When we face to face
 And you at my place 
 Yea come to my place
 I just wanna taste`, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk13.wav" },
-      { title: "sometimes clouds just look like clouds.", producer: "Zane Tipton", writer: "", performer: "", lyrics: `Wanna see you iced out
+      { title: "sometimes clouds just look like clouds.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `Wanna see you iced out
 Wanna see you piped down
 And i know that i might sound
 A bit out my mind now
@@ -4276,7 +3564,7 @@ Cause what can that do for me
 I know
 I’ll reap what I sow
 `, audio: "https://ilnbmbuvap5oi6tg.public.blob.vercel-storage.com/audio/pink-skyze-blue-hise/psbhtrk15.wav" },
-      { title: "i never say goodbye cause i never really leave.", producer: "Zane Tipton", writer: "", performer: "Zane Tipton", lyrics: `I don’t give a fuck about bezos
+      { title: "i never say goodbye cause i never really leave.", producer: "Zane Tipton", writer: "Zane Tipton", performer: "Zane Tipton", lyrics: `I don’t give a fuck about bezos
 Hoping that he crash in barbados
 I don’t give a fuck about elon
 Hoping that he knowin what we on
@@ -5690,7 +4978,7 @@ function MetadataPanel({ song }) {
   return (
     <div className="rounded-[18px] border border-white/10 bg-black/18 p-4">
       <div className="mb-3 text-[0.64rem] uppercase tracking-[0.26em] text-white/34">
-        metadata
+        credits
       </div>
 
       {metadataRows.length ? (
@@ -5839,13 +5127,13 @@ function SkyBackdrop({ progress }) {
 function Stars({ progress, introOpacity = 1 }) {
   const stars = useMemo(
     () =>
-      Array.from({ length: 220 }, (_, i) => ({
+      Array.from({ length: 340 }, (_, i) => ({
         id: i,
         left: Math.random() * 100,
         top: Math.random() * 100,
-        size: 0.6 + Math.random() * 2,
-        opacity: 0.18 + Math.random() * 0.72,
-        blur: Math.random() > 0.8 ? 1.4 : 0,
+        size: 0.7 + Math.random() * 2.25,
+        opacity: 0.28 + Math.random() * 0.72,
+        blur: Math.random() > 0.84 ? 1.2 : 0,
       })),
     []
   );
@@ -5871,8 +5159,8 @@ function Stars({ progress, introOpacity = 1 }) {
             filter: `blur(${star.blur}px)`,
             boxShadow:
               star.size > 1.5
-                ? "0 0 12px rgba(255,255,255,0.35)"
-                : "0 0 6px rgba(255,255,255,0.15)",
+                ? "0 0 16px rgba(255,255,255,0.48)"
+                : "0 0 8px rgba(255,255,255,0.24)",
           }}
         />
       ))}
@@ -6487,7 +5775,7 @@ function IntroOverlay({ onExistingStarsOpacityChange, onComplete }) {
   }, [phase, onComplete, onExistingStarsOpacityChange]);
 
   const generateLockingStars = (originX, originY) => {
-    const count = 210;
+    const count = 330;
     const width = viewport.width;
     const height = viewport.height;
 
@@ -6509,9 +5797,9 @@ function IntroOverlay({ onExistingStarsOpacityChange, onComplete }) {
         targetY,
         baseAngle,
         lockTime,
-        size: 0.6 + Math.random() * 2,
-        opacity: 0.16 + Math.random() * 0.74,
-        blur: Math.random() > 0.82 ? 1.4 : 0,
+        size: 0.7 + Math.random() * 2.25,
+        opacity: 0.28 + Math.random() * 0.72,
+        blur: Math.random() > 0.86 ? 1.2 : 0,
         drift: (Math.random() - 0.5) * 16,
         twinkle: Math.random() * Math.PI * 2,
       };
@@ -6686,7 +5974,7 @@ function IntroShipMoment({ elapsed }) {
       >
         <GlassBubble
           side="right"
-          text="A long ass time ago, this universe came from nothing."
+          text="A long ass time ago, this universe began from nothing."
           label="origin"
           anchorDiamond
         />
@@ -6742,7 +6030,7 @@ function OriginHoldMoment({ opacity = 1 }) {
       <div className="absolute" style={bubbleStyle}>
         <GlassBubble
           side="right"
-          text="A long ass time ago, this universe came from nothing."
+          text="A long ass time ago, this universe began from nothing."
           label="origin"
         />
       </div>
@@ -6782,10 +6070,10 @@ function IntroLockedStars({ stars, elapsed, opacity }) {
               opacity: star.opacity * appear * twinkle,
               filter: `blur(${star.blur}px)`,
               transform: "translate(-50%, -50%)",
-              boxShadow:
-                star.size > 1.5
-                  ? "0 0 12px rgba(255,255,255,0.35)"
-                  : "0 0 6px rgba(255,255,255,0.15)",
+                boxShadow:
+                  star.size > 1.5
+                    ? "0 0 16px rgba(255,255,255,0.5)"
+                    : "0 0 8px rgba(255,255,255,0.25)",
             }}
           />
         );
